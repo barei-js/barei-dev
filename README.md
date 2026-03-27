@@ -1,5 +1,5 @@
 
-# 🎹 Hello, World! I'm Barei
+# 🎹 Hello, World! I'm Barei.js
 
 > Hi! I'm Barei, student programmer & pianist. 🎹
 > Fluent in HTML, CSS & "Asking AI to fix my bugs."
